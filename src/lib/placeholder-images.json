@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "rice",
+      "description": "A sack of rice.",
+      "imageUrl": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwZ3JhaW5zfGVufDB8fHx8MTc2NDM5OTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice grains"
+    },
+    {
+      "id": "chili",
+      "description": "A basket of red chilies.",
+      "imageUrl": "https://images.unsplash.com/photo-1705173763807-b286f78bfec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZWQlMjBjaGlsaXxlbnwwfHx8fDE3NjQzOTkxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red chili"
+    },
+    {
+      "id": "oil",
+      "description": "A bottle of cooking oil.",
+      "imageUrl": "https://images.unsplash.com/photo-1720468750623-39e9a09f5067?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc2NDM5MzA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cooking oil"
+    },
+    {
+      "id": "sugar",
+      "description": "A bowl of white sugar.",
+      "imageUrl": "https://images.unsplash.com/photo-1664634452183-8e6682f1d748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdWdhciUyMGJvd2x8ZW58MHx8fHwxNzY0MzcwOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sugar bowl"
+    },
+    {
+      "id": "eggs",
+      "description": "A carton of eggs.",
+      "imageUrl": "https://images.unsplash.com/photo-1585355611444-06154f329e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlZ2dzJTIwY2FydG9ufGVufDB8fHx8MTc2NDM3NjI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eggs carton"
+    }
+  ]
 }
